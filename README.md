@@ -1,1 +1,1 @@
-# debian-xfce-minimal
+# debian-trixie-xfce-minimal-install
